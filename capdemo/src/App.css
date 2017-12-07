@@ -7,10 +7,9 @@
 }
 .App-header {
   text-align: center;
-  background-color: #222;
-  height: 4rem;
-  padding: 0.5rem;
-  color: white;
+  /*background-color: #222;*/
+  display: block;
+  /*color: white;*/
 }
 .App-title {
   font-size: 2.8rem;
@@ -29,3 +28,28 @@
 .RepImage {
   max-height: 3rem;
 }
+.Hero {
+  width: 100%;
+}
+.PhoneIcon {
+  height: 1rem;
+}
+.TwitterCall {
+  padding-right: 1rem;
+}
+.TableRow {
+  font-size: 1.5rem;
+  color: grey;
+}
+/*@media (max-width: 450px) {
+  .App-title {
+    font-size: 1rem;
+    margin: 0.5rem;
+  }
+  .App-header {
+    height: 2rem;
+  }
+  .App-logo {
+    height: 1.5rem;
+  }
+}*/
